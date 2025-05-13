@@ -1,6 +1,6 @@
 # ecommerce-sql
 
-This repository documents the exploration of key factors that contribute to the likelihood of an e-commerce order being completed or canceled. The analysis uses a dataset representing Pakistan’s largest collection of retail e-commerce transactions, spanning from March 2016 to August 2018, and was gathered from various e-commerce sellers.
+This repository documents the exploration of key factors that contribute to the likelihood of an e-commerce order being completed or canceled using SQL. The analysis uses a dataset representing Pakistan’s largest collection of retail e-commerce transactions, spanning from March 2016 to August 2018, and was gathered from various e-commerce sellers.
 
 ## Dataset
 
